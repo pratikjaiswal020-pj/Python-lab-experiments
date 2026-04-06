@@ -1,0 +1,6 @@
+n=input("enter your name")
+a=int(input("enter your age"))
+ad=input("enter your address")
+print(n)
+print(a)
+print(ad)
